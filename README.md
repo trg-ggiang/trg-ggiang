@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Giang;Learning+Full-stack+Development;HEDSPI+Student+from+SoICT-HUST" alt="Typing SVG" />
 </p>
 
-<br />
-<br />
-
 <p align="left">
   <img src="./assets/pixel-study-rain-cats-clock.png" width="500" alt="Peaceful pixel study room with two cats and rain outside" />
 </p>
