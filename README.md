@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,50:7C3AED,100:EC4899&text=Triệu%20Trường%20Giang&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=50&fontWeight=700" />
-
 <div align="center">
   <img src="https://github.com/trg-ggiang.png" width="145" style="border-radius:50%;border:4px solid #7C3AED" />
 </div>
@@ -79,7 +77,7 @@
 
 ## ✨ Interests
 
-| <img src="https://cdn-icons-png.flaticon.com/512/3145/3145765.png" width="50" /><br />**Reading** | <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="50" /><br />**Learning** | <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png" width="50" /><br />**Pets** |
+| **📚 Reading** | **📖 Learning** | **🐾 Pets** |
 |:---:|:---:|:---:|
 
 </div>
@@ -108,6 +106,17 @@
 
 ---
 
+<!-- GitHub Trophies -->
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=trg-ggiang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 <!-- Contribution Snake -->
 <div align="center">
 
@@ -116,7 +125,3 @@
 <img src="https://raw.githubusercontent.com/trg-ggiang/trg-ggiang/output/snake.svg" alt="Contribution Snake" width="100%" />
 
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:EC4899,50:7C3AED,100:0EA5E9" />
