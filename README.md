@@ -2,10 +2,6 @@
 
 # Hi there 👋, I'm Giang
 
-<p align="center">
-  <img src="https://github.com/trg-ggiang.png" width="145" alt="Giang" />
-</p>
-
 <p><b>Learning&nbsp;Full-stack&nbsp;Development&nbsp;·&nbsp;HEDSPI&nbsp;Student&nbsp;at&nbsp;SoICT-HUST</b></p>
 
 <p align="center">
@@ -15,8 +11,16 @@
 <br />
 <br />
 
-<p align="center">
-  <img src="./assets/pixel-study-rain-cats-clock.png" width="780" alt="Peaceful pixel study room with two cats and rain outside" />
+<p align="left">
+  <img src="./assets/pixel-study-rain-cats-clock.png" width="500" alt="Peaceful pixel study room with two cats and rain outside" />
+</p>
+
+<p align="right">
+  <img src="./assets/hobby.png" width="500" alt="Peaceful pixel study room with two cats and rain outside" />
+</p>
+
+<p align="left">
+  <img src="./assets/mypet.png" width="500" alt="Peaceful pixel study room with two cats and rain outside" />
 </p>
 
 </div>
@@ -28,7 +32,7 @@
 **I'm a HEDSPI student of SoICT-HUST**
 
 - 🌱 I’m currently learning **Full-stack Web Development**
-- 👀 I’m interested in **programming, UI/UX, web apps, and new technologies**
+- 👀 I'm interested in **programming, UI/UX, web apps, new technologies, traveling, exploring, and photography**
 - 🎯 Goal: I want to build useful products that make everyday tasks simpler
 - 📫 How to reach me: [giang.tt235700@sis.hust.edu.vn](mailto:giang.tt235700@sis.hust.edu.vn)
 - 😄 Pronouns: he/him
