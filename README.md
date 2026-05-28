@@ -1,68 +1,136 @@
-# こんにちは 👋、ギャンと申します
-
-## 🚀 自己紹介
-
-- 💻 フルスタック開発者として、Webアプリケーション開発に従事しております
-- 🎨 フロントエンドは **React + Vite + Tailwind CSS** を専門としており、高速で美しいUIの設計・開発を得意としております
-- ⚙️ バックエンド開発は **Express.js** を使用して、堅牢なREST APIとリアルタイム機能の実装を行っております
-- 🌟 Webアプリケーション開発とクリーンコードに情熱を持っております
-- 📚 常に新しい技術とベストプラクティスの習得に努めております
-
-## 🛠️ 技術スタック
-
-### フロントエンド
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### バックエンド
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=swagger&logoColor=white)
-
-### その他のツール
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub 統計
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,50:7C3AED,100:EC4899&text=Triệu%20Trường%20Giang&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Full-stack%20Developer%20%7C%20HUST%20IT%20Student&descAlign=50&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trg-ggiang&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trg-ggiang&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github.com/trg-ggiang.png" width="145" style="border-radius:50%" />
 </div>
 
-## 🎯 主なスキル
+<br />
 
-- ✅ React + Vite + Tailwind CSS + Express を使用したフルスタックアプリケーション開発
-- ✅ Tailwind CSS を活用した美しく、レスポンシブなUI設計・開発
-- ✅ Vite バンドラーを使用したパフォーマンス最適化
-- ✅ Express.js を用いた堅牢なREST API構築
-- ✅ MongoDB によるデータベース設計・最適化
-- ✅ Git ワークフローとバージョン管理
-- ✅ 問題解決とデバッギング
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-stack+Web+Developer;React+%2B+Node.js+%2B+PostgreSQL;Learning+new+things+every+day;Books+%7C+Code+%7C+Pets" />
+</div>
 
-## 💼 主要プロジェクト
+<br />
 
-*現在、素晴らしいプロジェクトを準備中です。上部にピンで固定いたします*
+<div align="center">
+  <a href="https://github.com/trg-ggiang">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:giang.tt235700@sis.hust.edu.vn">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/truongggiang3010/">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" />
+  </a>
+</div>
 
-## 🌱 現在学習中
+<br />
 
-- 📖 React の高度なパターンとパフォーマンス最適化についての深い学習
-- 🎨 Utility-first CSS アプローチを活用した Tailwind CSS のマスター
-- 🔧 React + Vite + Tailwind CSS + Express スタックを使用したサイドプロジェクト開発
-- 🚀 クラウドデプロイメントと DevOps の基礎知識の習得
-
-## 📫 お問い合わせ
-
-- 💼 GitHub: [@trg-ggiang](https://github.com/trg-ggiang)
-- 📧 コラボレーションやプロジェクト提案を歓迎いたします
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=trg-ggiang&style=for-the-badge&color=7c3aed" />
+</div>
 
 ---
 
 <div align="center">
-  <i>コード作成と問題解決を愛しております 💻</i>
+
+## 🧑‍💻
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,html,css,sql" />
+
+<br />
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,prisma,zustand" />
+
+<br />
+<br />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+<br />
+<br />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman" />
+
 </div>
+
+---
+
+<div align="center">
+
+## 🌏
+
+<img src="https://flagcdn.com/w80/vn.png" width="48" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://flagcdn.com/w80/gb.png" width="48" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://flagcdn.com/w80/jp.png" width="48" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/TOEIC-660-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JLPT-N4-EC4899?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://cdn-icons-png.flaticon.com/512/3145/3145765.png" width="58" />
+      <br />
+      <sub><b>Books</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="58" />
+      <br />
+      <sub><b>Learning</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png" width="58" />
+      <br />
+      <sub><b>Pets</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=trg-ggiang&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trg-ggiang&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" />
+
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=trg-ggiang&theme=tokyonight&hide_border=true&border_radius=18" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍
+
+<img src="https://raw.githubusercontent.com/trg-ggiang/trg-ggiang/output/snake.svg" />
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:EC4899,50:7C3AED,100:0EA5E9" />
